@@ -1,6 +1,6 @@
 # Magic Chat
 
-*WIP*
+*W.I.P*
 
 Your coworker is working in the server room.  you can barely hear eachother but still need to communicate to ensure you both do what you need to.  Both of your devices are on the same network but despite this you have no good way to talk between them.
 
