@@ -1,5 +1,7 @@
 # Magic Chat
 
+*WIP*
+
 Your coworker is working in the server room.  you can barely hear eachother but still need to communicate to ensure you both do what you need to.  Both of your devices are on the same network but despite this you have no good way to talk between them.
 
 Now there is Magic Chat, the local network chatroom inspired by [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) Magic Chat uses a 5 word phrase that you come up with to allow you to connect to another user on your network without the address of either machine.  
